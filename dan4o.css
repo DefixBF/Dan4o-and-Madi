@@ -1,0 +1,51 @@
+.eldar{
+    background-color: black;
+    display: inline-block;
+    width: 118.8rem;
+    height: 8rem;
+    color: aliceblue;
+}
+body{
+    padding: 0rem;
+    margin: 0rem;
+}
+li{
+    display: inline-block;
+    margin-left: 4rem;
+    background-color: gray;
+    width: 6rem;
+    height: 2rem;
+    border-radius: 0.5rem;
+    text-align: center;
+    padding-top: 1rem;
+}
+h1{
+    display: inline-block;
+}
+.ok{
+    margin-left: 80rem;
+}
+.kuailang{
+    color: red;
+    font-size: 4rem;
+    margin-left: 1rem;
+}
+h2{
+    margin-left: 2rem;
+    color: blue;
+}
+.er{
+    background-color: red;
+    height: 20rem;
+    width: 20rem;
+    margin-left: 5rem;
+    margin-top: 1rem;
+}
+.ru{
+    margin-left: 5rem;
+    color: palevioletred;
+}
+.j{
+    color: blue;
+    background-color: white;
+}
